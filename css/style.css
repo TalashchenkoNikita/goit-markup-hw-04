@@ -281,6 +281,11 @@ a {
     margin-top: 16px;
 }
 
+.member-socials-item {
+    width: 40px;
+    height: 40px;
+}
+
 .member-socials-link {
     display: flex;
     align-items: center;
@@ -415,7 +420,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
-    margin-right: 76px;
     margin-bottom: 16px;
 }
 
